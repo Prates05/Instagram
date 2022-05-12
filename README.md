@@ -1,6 +1,6 @@
-#Clone do Instagram 
+# Clone do Instagram .
  
-Nesse projeto foi o menu de login do Instagram
+Nesse projeto foi criado o menu de login do Instagram
 
 
 
